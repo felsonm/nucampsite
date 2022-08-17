@@ -2,7 +2,9 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: "Lobster", cursive;
 }
 
@@ -34,4 +36,9 @@ footer {
 
 .navbar {
     background-color: #901CAD;
+}
+
+.site-footer{
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
 }
